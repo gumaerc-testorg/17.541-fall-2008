@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ee1b21b-5b40-09a3-a663-a2818a822493
 resourcetype: Document
 title: 'Discussion Questions: Education'
 uid: b2027406-4932-3bdd-5a52-6f3b24126d11

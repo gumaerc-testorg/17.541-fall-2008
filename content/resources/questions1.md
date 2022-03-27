@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ee1b21b-5b40-09a3-a663-a2818a822493
 resourcetype: Document
 title: 'Discussion Questions: Leadership'
 uid: cb378739-1428-e0cc-93e6-ee88da989c28

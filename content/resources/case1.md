@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5f96d803-559b-b91e-bd66-6e8114fef68b
 resourcetype: Document
 title: 'Case #1: Leadership'
 uid: 2c45f511-909b-2864-0f87-6deebe160ea8

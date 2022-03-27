@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5f96d803-559b-b91e-bd66-6e8114fef68b
 resourcetype: Document
 title: 'Case #5: Community'
 uid: c166ee06-baf6-8dca-6aa4-1331322e5fc7

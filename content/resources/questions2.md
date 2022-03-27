@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ee1b21b-5b40-09a3-a663-a2818a822493
 resourcetype: Document
 title: 'Discussion Questions: International Economy'
 uid: 960afb79-9afa-a635-d720-2f0d1ba0eef4

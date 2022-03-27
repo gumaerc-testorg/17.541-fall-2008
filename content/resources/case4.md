@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5f96d803-559b-b91e-bd66-6e8114fef68b
 resourcetype: Document
 title: 'Case #4: Workplace'
 uid: 2362bb64-c228-428f-24b5-04db7bf5adaf

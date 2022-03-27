@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ee1b21b-5b40-09a3-a663-a2818a822493
 resourcetype: Document
 title: 'Discussion Questions: Workplace'
 uid: c4858748-3260-0c8c-ca10-ef584b2fd746

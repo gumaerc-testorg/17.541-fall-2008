@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5f96d803-559b-b91e-bd66-6e8114fef68b
 resourcetype: Document
 title: 'Case #2: International Economy'
 uid: e82f2a20-e4dc-0c1c-a164-4580812b4078

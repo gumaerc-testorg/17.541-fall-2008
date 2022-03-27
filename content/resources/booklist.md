@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ee1b21b-5b40-09a3-a663-a2818a822493
 resourcetype: Document
 title: Books for First Paper Assignment
 uid: 12ab1953-9eb5-9f52-cadf-d72db180cb1d
