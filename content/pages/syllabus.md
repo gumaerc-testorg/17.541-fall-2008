@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 877e0751-9ca1-3a0c-d8ce-5a016dd0632e
 ---
@@ -37,5 +38,5 @@ Additional Assignments for the 9-Unit Subject
 
 In addition to the starred readings on the syllabus, there is a final exam and two paper assignments:
 
-*   **First paper**, due in class Ses #5: Select a book from the following list ([PDF]({{< baseurl >}}/resources/booklist)). In 5-7 pages, summarize the author's main thesis and identify the major issues associated with this topic. Criticize the author's approach if appropriate.
-*   **Second paper**, due in class Ses #8: Write a short 5-7 page essay on one group of [readings]({{< baseurl >}}/pages/readings). Use the starred readings as well as at least three readings footnoted in the assignments. What do the authors say? Why is the subject important? What do they omit? Are there better readings to assign?
+*   **First paper**, due in class Ses #5: Select a book from the following list ({{< resource_link 12ab1953-9eb5-9f52-cadf-d72db180cb1d "PDF" >}}). In 5-7 pages, summarize the author's main thesis and identify the major issues associated with this topic. Criticize the author's approach if appropriate.
+*   **Second paper**, due in class Ses #8: Write a short 5-7 page essay on one group of {{< resource_link 5f96d803-559b-b91e-bd66-6e8114fef68b "readings" >}}. Use the starred readings as well as at least three readings footnoted in the assignments. What do the authors say? Why is the subject important? What do they omit? Are there better readings to assign?
