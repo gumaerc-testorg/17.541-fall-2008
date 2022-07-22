@@ -5,6 +5,7 @@ file: /courses/17-541-japanese-politics-and-society-fall-2008/2362bb64c228428f24
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Case #4: Workplace'
 uid: 2362bb64-c228-428f-24b5-04db7bf5adaf
 ---
 Case study on Japanese politics and society in the workplace.
-
