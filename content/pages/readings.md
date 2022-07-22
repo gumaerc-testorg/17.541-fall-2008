@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 5f96d803-559b-b91e-bd66-6e8114fef68b
 ---
@@ -231,7 +235,7 @@ Politics and history
 {{< tdopen >}}
 
 
-Leadership case study ([PDF]({{< baseurl >}}/resources/case1))
+Leadership case study ({{% resource_link 2c45f511-909b-2864-0f87-6deebe160ea8 "PDF" %}})
 
 \* Curtis, Gerald. _The Logic of Japanese Politics_. New York, NY: Columbia University Press, 2000, chapters 1 and 6. ISBN: 9780231108430.
 
@@ -249,7 +253,7 @@ Economy and technology
 {{< tdopen >}}
 
 
-International economy case study ([PDF]({{< baseurl >}}/resources/case2))
+International economy case study ({{% resource_link e82f2a20-e4dc-0c1c-a164-4580812b4078 "PDF" %}})
 
 \* McCargo, Duncan. _Contemporary Japan_. 2nd ed. New York, NY: Palgrave, 2004, chapter 8. ISBN: 9780333961926.
 
@@ -267,9 +271,9 @@ Education and the workplace
 {{< tdopen >}}
 
 
-Education case study ([PDF]({{< baseurl >}}/resources/case3))
+Education case study ({{% resource_link 13554cbe-0660-ea7a-72ad-505ed7440123 "PDF" %}})
 
-Workplace case study ([PDF]({{< baseurl >}}/resources/case4))
+Workplace case study ({{% resource_link 2362bb64-c228-428f-24b5-04db7bf5adaf "PDF" %}})
 
 \* Gordon, Andrew. "The Invention of Japanese-Style Labor Management." Chapter 2 in _Mirror of Modernity: Invented Traditions of Modern Japan._ Edited by Stephen Vlastos. Berkeley, CA: University of California Press, 1998. ISBN: 9780520206373.
 
@@ -287,7 +291,7 @@ Community and civil society
 {{< tdopen >}}
 
 
-Community case study ([PDF]({{< baseurl >}}/resources/case5))
+Community case study ({{% resource_link c166ee06-baf6-8dca-6aa4-1331322e5fc7 "PDF" %}})
 
 \* Dore, Ronald. "Goodwill and the Spirit of Capitalism." Chapter 9 in _Taking Japan Seriously: A Confucian Perspective on Leading Economic Issues_. Stanford, CA: Stanford University Press, 1988. ISBN: 9780804714013.
 

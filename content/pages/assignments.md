@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, including
+  procedure for case studies and web page presentations, the case study assignment,
+  case study topics, the web page assignment, and additional assignments for the 9-unit
+  subject.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 6ee1b21b-5b40-09a3-a663-a2818a822493
 ---
@@ -48,10 +55,10 @@ DISCUSSION QUESTIONS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Leadership ([PDF]({{< baseurl >}}/resources/case1))
+Leadership ({{% resource_link 2c45f511-909b-2864-0f87-6deebe160ea8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions1))
+({{% resource_link cb378739-1428-e0cc-93e6-ee88da989c28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,22 +67,10 @@ Leadership ([PDF]({{< baseurl >}}/resources/case1))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-International economy ([PDF]({{< baseurl >}}/resources/case2))
+International economy ({{% resource_link e82f2a20-e4dc-0c1c-a164-4580812b4078 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions2))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-11
-{{< tdclose >}}
-{{< tdopen >}}
-Education ([PDF]({{< baseurl >}}/resources/case3))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions3))
+({{% resource_link 960afb79-9afa-a635-d720-2f0d1ba0eef4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,10 +79,22 @@ Education ([PDF]({{< baseurl >}}/resources/case3))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Workplace ([PDF]({{< baseurl >}}/resources/case4))
+Education ({{% resource_link 13554cbe-0660-ea7a-72ad-505ed7440123 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions4))
+({{% resource_link b2027406-4932-3bdd-5a52-6f3b24126d11 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Workplace ({{% resource_link 2362bb64-c228-428f-24b5-04db7bf5adaf "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link c4858748-3260-0c8c-ca10-ef584b2fd746 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,10 +103,10 @@ Workplace ([PDF]({{< baseurl >}}/resources/case4))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Community ([PDF]({{< baseurl >}}/resources/case5))
+Community ({{% resource_link c166ee06-baf6-8dca-6aa4-1331322e5fc7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions5))
+({{% resource_link 54c2a209-3b1e-b800-042d-3bdc9b21047a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,16 +152,16 @@ We hope that you will, as always, be as creative as possible. But do make sure y
 Additional Assignments for the 9-Unit Subject
 ---------------------------------------------
 
-There are additional required readings marked \* in the [readings]({{< baseurl >}}/pages/readings) section, a final exam, and two paper assignments:
+There are additional required readings marked \* in the {{% resource_link 5f96d803-559b-b91e-bd66-6e8114fef68b "readings" %}} section, a final exam, and two paper assignments:
 
 ### First Paper Assignment
 
 Due Ses #5
 
-Select a book from the following list ([PDF]({{< baseurl >}}/resources/booklist)). In 5-7 pages, summarize the author's main thesis and identify the major issues associated with this topic. Criticize the author's approach if appropriate.
+Select a book from the following list ({{% resource_link 12ab1953-9eb5-9f52-cadf-d72db180cb1d "PDF" %}}). In 5-7 pages, summarize the author's main thesis and identify the major issues associated with this topic. Criticize the author's approach if appropriate.
 
 ### Second Paper Assignment
 
 Due Ses #8
 
-Write a short 5-7 page essay on one group of [readings]({{< baseurl >}}/pages/readings). Use the starred readings as well as at least three readings footnoted in the assignments. What do the authors say? Why is the subject important? What do they omit? Are there better readings to assign?
+Write a short 5-7 page essay on one group of {{% resource_link 5f96d803-559b-b91e-bd66-6e8114fef68b "readings" %}}. Use the starred readings as well as at least three readings footnoted in the assignments. What do the authors say? Why is the subject important? What do they omit? Are there better readings to assign?
