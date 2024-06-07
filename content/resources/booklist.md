@@ -4,6 +4,7 @@ description: List of books for a writing assignment to summarize the author's ma
   thesis, identify the major issues associated with this topic., and criticize the
   author's approach if appropriate.
 file: /courses/17-541-japanese-politics-and-society-fall-2008/12ab19539eb59f52cadfd72db180cb1d_booklist.pdf
+file_size: 39920
 file_type: application/pdf
 learning_resource_types:
 - Assignments

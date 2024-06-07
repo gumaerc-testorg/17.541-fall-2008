@@ -2,6 +2,7 @@
 content_type: resource
 description: Discussion questions for a case study on community and civil society.
 file: /courses/17-541-japanese-politics-and-society-fall-2008/54c2a2093b1eb800042d3bdc9b21047a_questions5.pdf
+file_size: 78101
 file_type: application/pdf
 learning_resource_types:
 - Assignments
