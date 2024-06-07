@@ -3,6 +3,7 @@ content_type: resource
 description: Discussion questions for a case study on leadership in Japanese politics
   and society.
 file: /courses/17-541-japanese-politics-and-society-fall-2008/cb3787391428e0cc93e6ee88da989c28_questions1.pdf
+file_size: 78213
 file_type: application/pdf
 learning_resource_types:
 - Assignments
