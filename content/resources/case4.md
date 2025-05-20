@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Case study on Japanese politics and society in the workplace.
-file: /ol-ocw-studio-app/courses/17-541-japanese-politics-and-society-fall-2008/2362bb64c228428f24b504db7bf5adaf_case4.pdf
+file: /courses/17-541-japanese-politics-and-society-fall-2008/2362bb64c228428f24b504db7bf5adaf_case4.pdf
 file_size: 88710
 file_type: application/pdf
 learning_resource_types:
