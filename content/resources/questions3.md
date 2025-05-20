@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Discussion questions for a case study on education and the workplace:
   Ishi''s Dilemma.'
-file: /ol-ocw-studio-app/courses/17-541-japanese-politics-and-society-fall-2008/b202740649323bdd5a526f3b24126d11_questions3.pdf
+file: /courses/17-541-japanese-politics-and-society-fall-2008/b202740649323bdd5a526f3b24126d11_questions3.pdf
 file_size: 77951
 file_type: application/pdf
 learning_resource_types:
