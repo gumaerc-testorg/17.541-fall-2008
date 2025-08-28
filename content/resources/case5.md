@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Case study on community and civil society.
-file: /courses/17-541-japanese-politics-and-society-fall-2008/c166ee06baf68dca6aa41331322e5fc7_case5.pdf
+file: /ol-ocw-studio-app/courses/17-541-japanese-politics-and-society-fall-2008/c166ee06baf68dca6aa41331322e5fc7_case5.pdf
 file_size: 95220
 file_type: application/pdf
 learning_resource_types:

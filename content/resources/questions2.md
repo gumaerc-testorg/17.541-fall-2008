@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discussion questions for a case study on the international economy.
-file: /courses/17-541-japanese-politics-and-society-fall-2008/960afb799afaa635d7202f0d1ba0eef4_questions2.pdf
+file: /ol-ocw-studio-app/courses/17-541-japanese-politics-and-society-fall-2008/960afb799afaa635d7202f0d1ba0eef4_questions2.pdf
 file_size: 78326
 file_type: application/pdf
 learning_resource_types:
