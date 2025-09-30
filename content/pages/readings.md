@@ -75,7 +75,7 @@ Vogel, Steven K. _Japan Remodeled: How Government and Industry are Reforming Jap
 
 McCargo, Duncan. _Contemporary Japan_. 2nd ed. New York, NY: Palgrave, 2004, chapter 3. ISBN: 9780333961926.
 
-The Prime Minister's Commission on Japan's Goals in the 21st Century. "[The Frontier Within: Individual Empowerment and Better Governance in the New Millennium](http://www.kantei.go.jp/jp/21century/report/pdfs/index.html)." January 2000.
+The Prime Minister's Commission on Japan's Goals in the 21st Century. "{{% resource_link "4bdefd34-e600-4c55-9c77-f770fcc8b0e5" "The Frontier Within: Individual Empowerment and Better Governance in the New Millennium" %}}." January 2000.
 
 \* Samuels, Richard J. _Rich Nation, Strong Army: National Security and Japan's Technological Transformation._ Ithaca, NY: Cornell University Press, 1996, chapter 2. ISBN: 9780801499944.
 
@@ -209,7 +209,7 @@ Gercik, Patricia. "Trust Me," and "Believe Me." In _On Track with the Japanese: 
 
 McCargo, Duncan. _Contemporary Japan_. 2nd ed. New York, NY: Palgrave, 2004, chapter 7. ISBN: 9780333961926.
 
-Hasegawa, Koichi, Chika Shinohara, and Jeffrey Broadbent. "[Volunteerism and the State in Japan](http://www.japanfocus.org/-Koichi-HASEGAWA/2616)." _The Asia-Pacific Journal: Japan Focus_, December 26, 2007.
+Hasegawa, Koichi, Chika Shinohara, and Jeffrey Broadbent. "{{% resource_link "0ff63c89-bd3b-4d31-98c0-752cf716eb69" "Volunteerism and the State in Japan" %}}." _The Asia-Pacific Journal: Japan Focus_, December 26, 2007.
 
 \* Maclachlan, Patricia. "The Struggle for an Independent Consumer Society." Chapter 10 in _The State of Civil Society in Japan._ Edited by Frank Schwartz and Susan Pharr. Cambridge, UK: Cambridge University Press, 2003. ISBN: 9780521534628.
 
